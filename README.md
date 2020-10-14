@@ -13,4 +13,4 @@ Usefull links:
 
 - add vs replace fragment | [https://stackoverflow.com/questions/18634207/difference-between-add-replace-and-addtobackstack]
 
--shared pref vs bundle | [https://stackoverflow.com/questions/21321842/android-shared-preferences-bundle-vs-shared-preferences]
+- shared pref vs bundle | [https://stackoverflow.com/questions/21321842/android-shared-preferences-bundle-vs-shared-preferences]
