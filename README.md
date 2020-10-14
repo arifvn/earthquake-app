@@ -1,6 +1,7 @@
 # earthquake-app
 
 Jetpack - Implementing SharePref
+
 Usefull links:
 
 https://www.youtube.com/watch?v=M15PEeHXM64
