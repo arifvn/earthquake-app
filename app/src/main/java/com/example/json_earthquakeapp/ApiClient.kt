@@ -22,7 +22,7 @@ object ApiClient {
 }
 
 interface ApiServices {
-    @GET("query?starttime=2014-01-01&endtime=2014-01-02&format=geojson&limit=8")
+    @GET("query?starttime=2016-02-01&endtime=2016-02-011&format=geojson&limit=8")
     fun getEarthQuake(
         @Query("orderby") orderby: String?,
         @Query("minmagnitude") minmagnitude: String?
